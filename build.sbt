@@ -9,3 +9,4 @@ lazy val root = (project in file("."))
   )
 
 libraryDependencies += "org.junit.jupiter" % "junit-jupiter-api" % "5.8.2" % Test
+libraryDependencies += "org.junit.jupiter" % "junit-jupiter-params" % "5.8.2" % Test
